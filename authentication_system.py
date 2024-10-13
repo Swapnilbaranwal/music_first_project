@@ -41,7 +41,7 @@ def signup(user_data):
     
     # After successful signup, call the song management system
     print(f"Welcome, {first_name}!")
-    run_song_management()
+    # run_song_management()
 
 # Sign-in functionality
 def signin(user_data):
@@ -51,19 +51,19 @@ def signin(user_data):
     if email in user_data and user_data[email]["password"] == password:
         print(f"Welcome, {user_data[email]['first_name']}!")
         # After successful login, call the song management system
-        run_song_management()
+        # run_song_management()
     else:
         print("Invalid email or password. Please try again.")
 
 # Run the song management system by calling song_management.py
-def run_song_management():
-    try:
-        subprocess.run(['python3', '/Users/swapnilbaranwal/Desktop/Python_project/song_management.py'])
-  # Assuming song_management.py is in the same folder
-    except FileNotFoundError:
-        print("Error: The song_management.py file was not found.")
-    except Exception as e:
-        print(f"An error occurred while running the song management system: {e}")
+# def run_song_management():
+#     try:
+#         subprocess.run(['python3', '/Users/swapnilbaranwal/Desktop/Python_project/song_management.py'])
+#   # Assuming song_management.py is in the same folder
+#     except FileNotFoundError:
+#         print("Error: The song_management.py file was not found.")
+#     except Exception as e:
+#         print(f"An error occurred while running the song management system: {e}")
 
 # Exit functionality
 def exit_program():
