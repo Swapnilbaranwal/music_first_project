@@ -2,7 +2,7 @@ import subprocess
 
 # Initialize the user_data dictionary
 user_data = {
-    "john.doe@example.com": {"password": "john123", "first_name": "John", "last_name": "Doe", "age": 28},
+    "aditya.chaudhary01@sarasai.org": {"password": "ADI123", "first_name": "Aditya", "last_name": "Chaudhary", "age": 18},
     "jane.smith@example.com": {"password": "jane456", "first_name": "Jane", "last_name": "Smith", "age": 32},
     "alice.jones@example.com": {"password": "alice789", "first_name": "Alice", "last_name": "Jones", "age": 24},
     "bob.brown@example.com": {"password": "bob101", "first_name": "Bob", "last_name": "Brown", "age": 30},
