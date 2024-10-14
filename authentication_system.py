@@ -4,8 +4,8 @@ import subprocess
 user_data = {
     "aditya.chaudhary01@sarasai.org": {"password": "ADI123", "first_name": "Aditya", "last_name": "Chaudhary", "age": 18},
     "abhishek.singh01@sarasai.org": {"password": "ABHI4533", "first_name": "Abhishek", "last_name": "Singh", "age": 20},
-    "alice.jones@example.com": {"password": "alice789", "first_name": "Alice", "last_name": "Jones", "age": 24},
-    "bob.brown@example.com": {"password": "bob101", "first_name": "Bob", "last_name": "Brown", "age": 30},
+    "swapnil.baranwal01@sarasai.org": {"password": "Swapnil001", "first_name": "Swapnil", "last_name": "Baranwal", "age": 24},
+    "anumolu.chidrup01@sarasai.org": {"password": "Chidrup109", "first_name": "Anumolu", "last_name": "Chidrup", "age": 22},
     "charlie.white@example.com": {"password": "charlie202", "first_name": "Charlie", "last_name": "White", "age": 35},
     "diana.green@example.com": {"password": "diana303", "first_name": "Diana", "last_name": "Green", "age": 27},
     "george.blue@example.com": {"password": "george606", "first_name": "George", "last_name": "Blue", "age": 26},
