@@ -6,10 +6,12 @@ user_data = {
     "abhishek.singh01@sarasai.org": {"password": "ABHI4533", "first_name": "Abhishek", "last_name": "Singh", "age": 20},
     "swapnil.baranwal01@sarasai.org": {"password": "Swapnil001", "first_name": "Swapnil", "last_name": "Baranwal", "age": 24},
     "anumolu.chidrup01@sarasai.org": {"password": "Chidrup109", "first_name": "Anumolu", "last_name": "Chidrup", "age": 22},
-    "charlie.white@example.com": {"password": "charlie202", "first_name": "Charlie", "last_name": "White", "age": 35},
-    "diana.green@example.com": {"password": "diana303", "first_name": "Diana", "last_name": "Green", "age": 27},
-    "george.blue@example.com": {"password": "george606", "first_name": "George", "last_name": "Blue", "age": 26},
-    "hannah.yellow@example.com": {"password": "hannah707", "first_name": "Hannah", "last_name": "Yellow", "age": 31}
+    "gaurav.singh@sarasai.org": {"password": "Gaurav1234", "first_name": "Gaurav", "last_name": "Singh", "age": 33},
+    "anshuman@sarasai.org": {"password": "Anshuman0303", "first_name": "Anshuman", "last_name": "Singh", "age": 32},
+    "vishnu@sarasai.org": {"password": "Vishnu0234", "first_name": "Vishnu", "last_name": "Tiwari", "age": 28},
+    "shailesh@sarasai.org": {"password": "Shailesh0707", "first_name": "Shailesh", "last_name": "Kumar", "age": 34},
+    "poonam.m@sarasai.org": {"password": "Madaan9870", "first_name": "Poonam", "last_name": "Madaan", "age": 32},
+    "Khushi.g@sarasai.org": {"password": "Khushi7654", "first_name": "Khushi", "last_name": "Gupta", "age": 27}
 }
 
 # Display menu options
