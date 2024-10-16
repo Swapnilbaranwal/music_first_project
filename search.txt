@@ -4,3 +4,7 @@
 "Dont Start Now", "Dua Lipa", "Future Nostalgia", "Disco", "3:03"
 "Viva La Vida", "Coldplay", "Viva La Vida or Death and All His Friends", "Rock", "4:02"
 "My Heart Will Go On", "Celine Dion", "Titanic", "Pop", "4:40"
+"Revenge", "XXXTENTACION", "17", "Hip Hop", "1:59"
+"Bones", "Imagine Dragons", "Bones", "Rock", "2:45"
+"Bloody Mary", "Lady Gaga", "Born This Way", "Dance Pop", "4:05"
+"Diet Mountain Dew", "Lana Del Rey", "Born to Die", "Pop", "3:45"
